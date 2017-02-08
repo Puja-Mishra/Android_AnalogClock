@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Feb 08 01:41:54 IST 2017
+2.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/clock_hour.png
+2.set=ANDROID_RESOURCE
+4.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/clock_minute.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/res/layout/alarm_clock.xml
+5.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/clock_dial.png
+1.set=ANDROID_RESOURCE
+7.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/icon.png
+6.set=ANDROID_RESOURCE
+0.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/puja/Downloads/analog_clock1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/clockgoog_minute.png
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/puja/Downloads/analog_clock1/app/build/intermediates/res/merged/debug/drawable-hdpi/clockgoog_minute.png",
+        "source": "/home/puja/Downloads/analog_clock1/app/src/main/res/drawable-hdpi/clockgoog_minute.png"
+    },
+    {
+        "merged": "/home/puja/Downloads/analog_clock1/app/build/intermediates/res/merged/debug/drawable-hdpi/clock_minute.png",
+        "source": "/home/puja/Downloads/analog_clock1/app/src/main/res/drawable-hdpi/clock_minute.png"
+    },
+    {
+        "merged": "/home/puja/Downloads/analog_clock1/app/build/intermediates/res/merged/debug/drawable-hdpi/clock_hour.png",
+        "source": "/home/puja/Downloads/analog_clock1/app/src/main/res/drawable-hdpi/clock_hour.png"
+    },
+    {
+        "merged": "/home/puja/Downloads/analog_clock1/app/build/intermediates/res/merged/debug/drawable-hdpi/clock_dial.png",
+        "source": "/home/puja/Downloads/analog_clock1/app/src/main/res/drawable-hdpi/clock_dial.png"
+    }
+]

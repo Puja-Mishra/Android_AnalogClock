@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClock"><attr format="reference" name="dial"/><attr format="reference" name="hand_hour"/><attr format="reference" name="hand_minute"/></declare-styleable>
+    <string name="app_name">Analog Clock</string>
+    <string name="hello">Hello World, Analog Clock!</string>
+    <style name="alarm_alert" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="clock">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+</resources>

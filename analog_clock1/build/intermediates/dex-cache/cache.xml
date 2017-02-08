@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/puja/Downloads/analog_clock1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f20ef5a5b4dc0f7ff5cae4811a3e1a8b1c369cf8">
+        <dex dex="/home/puja/Downloads/analog_clock1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5daee0ddaf1b927c89d9f5d722abf114fce04a3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/puja/Downloads/analog_clock1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70dc098d1afabb656a994cd8676874f2b719b3af">
+        <dex dex="/home/puja/Downloads/analog_clock1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_108a6e5b78e63f8c636e16cd056befd49975d3d5/classes.dex" />
+    </item>
+
+</items>

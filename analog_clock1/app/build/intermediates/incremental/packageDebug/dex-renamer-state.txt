@@ -1,0 +1,7 @@
+#Wed Feb 08 01:41:56 IST 2017
+base.0=/home/puja/Downloads/analog_clock1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_108a6e5b78e63f8c636e16cd056befd49975d3d5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/puja/Downloads/analog_clock1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5daee0ddaf1b927c89d9f5d722abf114fce04a3a/classes.dex
+base.1=/home/puja/Downloads/analog_clock1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5daee0ddaf1b927c89d9f5d722abf114fce04a3a
+file.0=/home/puja/Downloads/analog_clock1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_108a6e5b78e63f8c636e16cd056befd49975d3d5/classes.dex
